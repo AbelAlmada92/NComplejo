@@ -1,0 +1,15 @@
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\obj\Debug\net6.0\NComplejo.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\obj\Debug\net6.0\NComplejo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\obj\Debug\net6.0\NComplejo.AssemblyInfoInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\obj\Debug\net6.0\NComplejo.AssemblyInfo.cs
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\obj\Debug\net6.0\NComplejo.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\bin\Debug\net6.0\NComplejo.exe
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\bin\Debug\net6.0\NComplejo.deps.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\bin\Debug\net6.0\NComplejo.runtimeconfig.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\bin\Debug\net6.0\NComplejo.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\bin\Debug\net6.0\NComplejo.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\obj\Debug\net6.0\NComplejo.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\obj\Debug\net6.0\refint\NComplejo.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\obj\Debug\net6.0\NComplejo.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\obj\Debug\net6.0\NComplejo.genruntimeconfig.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\NComplejo\obj\Debug\net6.0\ref\NComplejo.dll
